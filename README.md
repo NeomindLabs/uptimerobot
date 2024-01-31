@@ -1,5 +1,8 @@
 # UptimeRobot
 
+> [!NOTE]  
+>This is a fork of the [original uptimerobot gem](https://github.com/winebarrel/uptimerobot), which was archived and set to read-only on Apr 2, 2021.
+
 [Uptime Robot](https://uptimerobot.com/) APIv2 client for Ruby.
 
 [![Gem Version](https://badge.fury.io/rb/uptimerobot.svg)](http://badge.fury.io/rb/uptimerobot)
