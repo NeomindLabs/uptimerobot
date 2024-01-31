@@ -2,7 +2,6 @@ require 'cgi'
 require 'json'
 
 require 'faraday'
-require 'faraday_middleware'
 
 module UptimeRobot; end
 
